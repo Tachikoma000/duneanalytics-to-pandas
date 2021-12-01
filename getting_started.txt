@@ -1,0 +1,3 @@
+Using pip, install the following packages
+1. pip install duneanalytics
+2. pip install pandas
